@@ -1,0 +1,47 @@
+en,cn,enfeature,category
+Artificial Intelligence,人工智能,Noun,Category1
+Machine Learning,机器学习,Noun,Category1
+Neural Networks,神经网络,Noun,Category1
+Deep Learning,深度学习,Noun,Category1
+Data Mining,数据挖掘,Noun,Category1
+Natural Language Processing,自然语言处理,Noun,Category1
+Computer Vision,计算机视觉,Noun,Category1
+Algorithm,算法,Noun,Category2
+Programming,编程,Noun,Category2
+Data Structures,数据结构,Noun,Category2
+Software Engineering,软件工程,Noun,Category2
+Operating System,操作系统,Noun,Category2
+Database,数据库,Noun,Category2
+Computer Architecture,计算机体系结构,Noun,Category2
+Networking,网络,Noun,Category2
+Data Analysis,数据分析,Noun,Category1
+Supervised Learning,监督学习,Noun,Category1
+Unsupervised Learning,无监督学习,Noun,Category1
+Reinforcement Learning,强化学习,Noun,Category1
+Big Data,大数据,Noun,Category1
+Cloud Computing,云计算,Noun,Category1
+Virtual Reality,虚拟现实,Noun,Category1
+Augmented Reality,增强现实,Noun,Category1
+Computer Graphics,计算机图形学,Noun,Category1
+Image Processing,图像处理,Noun,Category1
+Pattern Recognition,模式识别,Noun,Category1
+Semantic Analysis,语义分析,Noun,Category1
+Computer Science,计算机科学,Noun,Category2
+Cybersecurity,网络安全,Noun,Category2
+Internet of Things (IoT),物联网,Noun,Category2
+API (Application Programming Interface),API，应用程序编程接口,Noun,Category2
+Encryption,加密,Noun,Category2
+Debugging,调试,Noun,Category2
+Software Development,软件开发,Noun,Category2
+Agile Methodology,敏捷方法论,Noun,Category2
+Virtual Machine,虚拟机,Noun,Category2
+Regression Analysis,回归分析,Noun,Category1
+Artificial Neural Network,人工神经网络,Noun,Category1
+Clustering,聚类,Noun,Category1
+Predictive Analytics,预测分析,Noun,Category1
+Natural Language Generation,自然语言生成,Noun,Category1
+Fuzzy Logic,模糊逻辑,Noun,Category1
+Robotics,机器人技术,Noun,Category1
+Biometrics,生物识别技术,Noun,Category1
+Computer Forensics,计算机取证,Noun,Category1
+Ethical Hacking,道德黑客,Noun,Category1
